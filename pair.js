@@ -82,9 +82,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "𝙱𝚄𝙽𝙽𝚈-𝙼𝙳",
+title: "Qᴜᴇᴇɴ ʙᴜɴɴʏ ᴍᴅ",
 thumbnailUrl: "https://files.catbox.moe/308qwg.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f",
+sourceUrl: "https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -98,9 +98,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "𝙱𝚄𝙽𝙽𝚈-𝙼𝙳",
+title: "Qᴜᴇᴇɴ ʙᴜɴɴʏ ᴍᴅ",
 thumbnailUrl: "https://files.catbox.moe/308qwg.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VavtU8Z77qVYss5hLq2f",
+sourceUrl: "https://whatsapp.com",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
