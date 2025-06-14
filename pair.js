@@ -77,13 +77,13 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "𝙱𝚄𝙽𝙽𝚈-𝙼𝙳=" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐒𝐔𝐂𝐂𝐔𝐒𝐅𝐔𝐋𝐋 𝐘𝐎𝐔𝐑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏 𝐁𝐎𝐓* 😮⃝৫⃟➤᭄᭄̊̊̊̊࿓࿔\n\n*𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊* = https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD/tree/main\n\n\n*╭𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐁𝐔𝐍𝐍𝐘✤⃝ꦿ⃝✥᭄ꦿ\n\n\n*`𝐎𝐖𝐍𝐄𝐑`=* 94710808299\n\n*`𝐇𝐄𝐋𝐏`*   = 𝐒𝐔𝐋𝐀 & 𝐃𝐓𝐙  𝐓𝐄𝐀𝐌𝐄\n\n*`𝐅𝐎𝐋𝐋𝐎𝐖 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐂𝐇𝐀𝐍𝐄𝐋`*  https://whatsapp.com/channel/0029VbAXsYXIiRozOhimJZ0Z\n\n*`𝐂𝐎𝐑𝐑𝐄𝐂𝐓` @ 𝐌𝐀𝐍𝐔𝐒`; 
+                        let desc = ``> SEASION ID THIS SUCCUSFULL[ශෙයා කරන්න එපා]` \n\n> Do ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ` \n\n\>ʀɪᴘᴏ` :https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD\n\n> SUPPORT`:-https://whatsapp.com/channel/0029Vb5ZZrP002SzdBqZEa2X/2306\n\n> ᴏᴡɴᴇʀ` :-94710808299\n\n\n> `ᴘᴏᴡᴇʀᴅ ʙʏ` Qᴜᴇᴇɴ ʙᴜɴɴʏ-ᴍᴅ`;`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "Qᴜᴇᴇɴ ʙᴜɴɴʏ ᴍᴅ",
-thumbnailUrl: "https://files.catbox.moe/308qwg.jpg",
+thumbnailUrl: "https://files.catbox.moe/5hd2zv.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -93,13 +93,13 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐒𝐔𝐂𝐂𝐔𝐒𝐅𝐔𝐋𝐋 𝐘𝐎𝐔𝐑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏 𝐁𝐎𝐓* 😮⃝৫⃟➤᭄᭄̊̊̊̊࿓࿔\n\n*𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊* = https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD/tree/main\n\n\n*╭𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐁𝐔𝐍𝐍𝐘✤⃝ꦿ⃝✥᭄ꦿ\n\n\n*`𝐎𝐖𝐍𝐄𝐑`=* 94710808299\n\n*`𝐇𝐄𝐋𝐏`*   = 𝐒𝐔𝐋𝐀 & 𝐃𝐓𝐙  𝐓𝐄𝐀𝐌𝐄\n\n*`𝐅𝐎𝐋𝐋𝐎𝐖 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐂𝐇𝐀𝐍𝐄𝐋`*  https://whatsapp.com/channel/0029VbAXsYXIiRozOhimJZ0Z\n\n*`𝐂𝐎𝐑𝐑𝐄𝐂𝐓` @ 𝐌𝐀𝐍𝐔𝐒`;
+                            let desc = ``> SEASION ID THIS SUCCUSFULL[ශෙයා කරන්න එපා]` \n\n> Do ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ` \n\n\>ʀɪᴘᴏ` :https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD\n\n> SUPPORT`:-https://whatsapp.com/channel/0029Vb5ZZrP002SzdBqZEa2X/2306\n\n> ᴏᴡɴᴇʀ` :-94710808299\n\n\n> `ᴘᴏᴡᴇʀᴅ ʙʏ` Qᴜᴇᴇɴ ʙᴜɴɴʏ-ᴍᴅ`;`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "Qᴜᴇᴇɴ ʙᴜɴɴʏ ᴍᴅ",
-thumbnailUrl: "https://files.catbox.moe/308qwg.jpg",
+thumbnailUrl: "https://files.catbox.moe/5hd2zv.jpg",
 sourceUrl: "https://whatsapp.com",
 mediaType: 2,
 renderLargerThumbnail: true,
